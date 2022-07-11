@@ -1,0 +1,9 @@
+{
+  "productId": 2,
+  "productName": "Garden Cart",
+  "productCode": "GDN-0023",
+  "releaseDate": "March 18, 2021",
+  "price": 32.99,
+  "starRating": 4.2,
+  "imageUrl": "assets/images/garden_cart.png"
+}
